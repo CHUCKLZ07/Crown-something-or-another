@@ -1,0 +1,16 @@
+{
+  "name": "Crownforge",
+  "short_name": "Crownforge",
+  "description": "Multiplayer deck-building card game for phones.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a120d",
+  "theme_color": "#1a120d",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
